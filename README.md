@@ -50,7 +50,6 @@ El modelo de datos está diseñado bajo un **esquema estrella**, compuesto por:
 ## Descripción
 
 El proyecto simula un entorno realista de **servicios de pago bursátiles**, con datos estructurados para análisis financiero y operativo.  
-Está orientado a mostrar capacidades de análisis, modelado y visualización en Power BI para fines académicos y de portafolio profesional.
 
 ---
 
