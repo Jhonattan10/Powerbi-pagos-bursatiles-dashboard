@@ -34,15 +34,6 @@ Ticket Promedio
 % Observado  
 % del Monto por Método de Pago  
 
-Dashboards desarrollados  
-Visión general del monto total procesado y volumen de transacciones  
-Evolución temporal del monto procesado  
-Análisis del ticket promedio  
-Distribución del monto por método de pago  
-Análisis del monto procesado por cliente y servicio  
-Control operativo de transacciones pendientes y observadas  
-Seguimiento del nivel de conciliación de pagos  
-
 Descripción  
 El proyecto simula un entorno de pagos bursátiles realista, con transacciones procesadas en distintas monedas y métodos de pago.  
 El dashboard está diseñado para brindar una visión ejecutiva y operativa del proceso de pagos, facilitando el monitoreo del desempeño y la identificación de transacciones que requieren seguimiento.  
